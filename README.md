@@ -34,6 +34,7 @@ Ensure you have these packages installed in your environment. You can install th
 #### pip install numpy pandas matplotlib seaborn scikit-learn
 
 ### How to Use
+Download dataset from Kaggle: [Download the dataset here](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset)
 Open the notebook file (Framingham-EDA-ML.ipynb) in Jupyter Notebook, JupyterLab, or any compatible IDE.
 Run the cells sequentially to reproduce the analysis and results.
 Modify the notebook as needed to explore additional analyses or models.
