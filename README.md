@@ -38,7 +38,7 @@ Download dataset from Kaggle: [Download the dataset here](https://www.kaggle.com
 Open the notebook file (Framingham-EDA-ML.ipynb) in Jupyter Notebook, JupyterLab, or any compatible IDE.
 Run the cells sequentially to reproduce the analysis and results.
 Modify the notebook as needed to explore additional analyses or models.
-Dataset
+### Dataset
 The dataset used in this project is derived from the Framingham Heart Study. It includes various demographic, behavioral, and medical features associated with heart disease risk.
 
 ### Results
