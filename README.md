@@ -1,3 +1,6 @@
+# Name: Muhammad Hassan Farid
+# ID: FA24-RAI-012
+
 # Framingham Heart Study: Exploratory Data Analysis and Machine Learning
 This project involves an Exploratory Data Analysis (EDA) and machine learning implementation based on the Framingham Heart Study dataset. The notebook demonstrates data preprocessing, visualization, and predictive modeling to assess cardiovascular disease risk factors.
 
